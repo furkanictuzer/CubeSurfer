@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 5/22/2021 12:21:33 AM : Starting D:/unity/Projeler/2020.3.8f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2176.2988ms
+moved types parse time: 135ms
+candidates parse time : 39ms
+C# parse time         : 1224ms
+candidates check time : 44ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 5/25/2021 12:33:46 PM : Starting D:/unity/Projeler/2020.3.8f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2105.2275ms
+moved types parse time: 126ms
+candidates parse time : 23ms
+C# parse time         : 1827ms
+candidates check time : 67ms
+console write time    : 10ms
+
